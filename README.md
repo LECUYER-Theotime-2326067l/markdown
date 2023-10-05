@@ -1,5 +1,6 @@
 # Bienvenue sur le wiki Weenav !
 <img src="https://raw.githubusercontent.com/LECUYER-Theotime-2326067l/markdown/main/logo%20weenav.png" />
+
 [Weenav](https://www.weenav.com/) est une entreprise qui propose des solutions de motorisation sur mesure pour bateaux. Elle a été fondée par Anthony TARTARE, Kevin CAPENDU et Antoine BOUCHEZ en 2022, et son siège social se situe dans la ville de [Bondues](https://fr.wikipedia.org/wiki/Bondues).
 
 # Fondateurs
